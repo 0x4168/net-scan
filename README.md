@@ -34,7 +34,7 @@
  
  1. Clone the repository:
    
-    git clone https://github.com/yourusername/net-scan.git
+    git clone https://github.com/0x4168/net-scan.git
     
  
  2. Navigate to the project directory:
@@ -136,5 +136,5 @@
  ---
  
  ## Contact
- - GitHub: [YourUsername](https://github.com/yourusername)
+ - GitHub: [YourUsername](https://github.com/0x4168)
  - Telegram: [ZeroXyaser](https://t.me/ZeroXyaser)
