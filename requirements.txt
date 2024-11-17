@@ -1,0 +1,6 @@
+colorama
+requests
+argparse
+json
+csv
+rich
