@@ -4,3 +4,4 @@ argparse
 json
 csv
 rich
+mysql-connector-python
