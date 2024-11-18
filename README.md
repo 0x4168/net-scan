@@ -1,4 +1,4 @@
- # NeScan 
+ # NetScan 
  NetSca is an advanced Python-based network scanning and default credential testing tool. It is designed to provide comprehensive insights into the security of networks by scanning open ports, identifying services, and testing for weak or default configurations. With its ability to save results in multiple formats, it is an essential tool for penetration testers, system administrators, and cybersecurity enthusiasts.
 ---
 ## Features
